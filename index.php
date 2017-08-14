@@ -5,7 +5,7 @@
     <title>Password</title>
     </head>
     <body>
-    <p>Pour accéder aux code d'accès, veillez renseigner votre mot de passe :
+    <p>Pour accéder aux code d'accès, veillez renseigner votre mot de passe ici :
     </p>
         <br/>
         <form method="post" action="codes.php">
